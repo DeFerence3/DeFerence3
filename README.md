@@ -1,7 +1,8 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=DeFerence3e&style=flat-square)
 
 <!--
-**DeFerence3/DeFerence3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Abhishek..
 
 Here are some ideas to get you started:
 
