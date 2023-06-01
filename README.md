@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=DeFerence3e&style=flat-square)
 
 <!--
 My name is Abhishek..
