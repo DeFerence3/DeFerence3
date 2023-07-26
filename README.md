@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Native Android Developer
+Java/Kotlin
+
 - 🌱 I’m currently learning Kotlin/Jetpack Compose
 
 <!--
