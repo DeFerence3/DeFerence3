@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Native Android Developer
-Java/Kotlin
+Beginner Java/Kotlin Developer
+
 
 - 🌱 I’m currently learning Kotlin/Jetpack Compose
 
