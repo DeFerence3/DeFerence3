@@ -1,10 +1,12 @@
-### Hi there 👋
-
-Beginner Java/Kotlin Developer
-
-
-- 🌱 I’m currently learning Kotlin/Jetpack Compose
-
+```
+AboutMe.kt
+class AboutMe {
+    val firstName = "Abhishek"
+    val lastName = "Krishnan"
+    val role = "Beginner Java/Kotlin Developer"
+    val currentlyLearning = "Kotlin/Jetpack Compose"
+}
+```
 <!--
 My name is Abhishek..
 
