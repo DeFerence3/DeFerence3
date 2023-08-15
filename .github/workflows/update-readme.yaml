@@ -1,0 +1,21 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main  # Change this to your default branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          # Your update logic here
+          echo "Stars: \$(curl -s https://api.github.com/repos/your-username/your-repo | jq -r '.stargazers_count')" > README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
