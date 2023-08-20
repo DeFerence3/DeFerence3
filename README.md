@@ -6,6 +6,7 @@ class AboutMe {
     val lastName = "Krishnan"
     val role = "Beginner Java/Kotlin Developer"
     val currentlyLearning = "Kotlin/Jetpack Compose"
+    val currentlyWorkingOn = "broke-compose"
 }
 ```
 <!--
