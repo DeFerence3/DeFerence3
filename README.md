@@ -1,4 +1,4 @@
-```
+
 AboutMe.kt
 ---------------
 class AboutMe {
@@ -8,7 +8,7 @@ class AboutMe {
     val currentlyLearning = "Kotlin/Jetpack Compose"
     val currentlyWorkingOn = "[broke-compose](https://github.com/DeFerence3/broke-compose)"
 }
-```
+
 <!--
 My name is Abhishek..
 
