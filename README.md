@@ -10,6 +10,17 @@ class AboutMe {
 }
 ```
 - [broke-compose](https://github.com/DeFerence3/broke-compose)
+
+<details>
+ <summary>how about some shitty stats?</summary>
+
+ |you want it...|
+|:----:|
+|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deference3&show_icons=true&locale=en&layout=compact" alt="deference3" /></p>|
+|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deference3&show_icons=true&locale=en" alt="deference3" /></p>|
+|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deference3&" alt="deference3" /></p>|
+</details>
+
 <!--
 My name is Abhishek..
 
