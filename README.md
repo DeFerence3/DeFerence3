@@ -4,9 +4,10 @@ AboutMe.kt
 class AboutMe {
     val firstName = "Abhishek"
     val lastName = "Krishnan"
-    val role = "Beginner Java/Kotlin Developer"
-    val currentlyLearning = "Kotlin/Jetpack Compose"
+    val askMeAbout = "Java/Kotlin"
+    val currentlyLearning = "Jetpack-Compose"
     val currentlyWorkingOn = "broke-compose"
+    val funFact? = null
 }
 ```
 - [broke-compose](https://github.com/DeFerence3/broke-compose)
