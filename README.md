@@ -17,7 +17,7 @@ AboutMe.kt
 class AboutMe {
     val firstName = "Abhishek"
     val lastName = "Krishnan"
-    val askMeAbout = "Java/Kotlin"
+    val askMeAbout = listOf("Java/Kotlin","SQL","Android","")
     val currentlyLearning = "Jetpack-Compose"
     val currentlyWorkingOn = "broke-compose"
     val funFact? = null
