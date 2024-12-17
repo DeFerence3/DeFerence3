@@ -5,13 +5,11 @@ AboutMe.kt
 class AboutMe {
     val firstName = "Abhishek"
     val lastName = "Krishnan"
-    val askMeAbout = listOf("Java/Kotlin","SQL","Android","")
-    val currentlyLearning = "Jetpack-Compose"
-    val currentlyWorkingOn = "broke-compose"
+    val askMeAbout = listOf("Java/Kotlin","SQL","Android","REST Apis")
+    val currentlyLearning = "Ktor"
     val funFact? = null
 }
 ```
-- [broke-compose](https://github.com/DeFerence3/broke-compose)
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4bhishek.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-krishnan-b18220248/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23507003) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeFerencee) 
