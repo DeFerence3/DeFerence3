@@ -25,8 +25,4 @@ class AboutMe {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deference3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
  </a>
 </p>
-<p align="center" >
- <a href="https://github.com/DeFerence3">
-  <img height="25em" src="https://visitcount.itsvg.in/api?id=deference3&icon=10&color=0"/>
- </a>
 </p>
