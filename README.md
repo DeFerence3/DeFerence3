@@ -7,7 +7,7 @@ class AboutMe {
     val lastName = "Krishnan"
     val askMeAbout = listOf("Java/Kotlin","SQL","Android","REST Apis")
     val currentlyLearning = "Ktor"
-    val funFact? = null
+    val funFact: Fact? = null
 }
 ```
 
