@@ -6,7 +6,8 @@ class AboutMe {
     val firstName = "Abhishek"
     val lastName = "Krishnan"
     val askMeAbout = listOf("Java/Kotlin","SQL","AndroidOS","REST Apis")
-    val currentlyLearning = "Ktor"
+    val things = listOf("Spring Boot","Ktor","Jetpack Compose","Compose Multiplatform")
+    val currentlyLearning = "Svelte/React"
     val funFact: Fact? = null
 }
 ```
