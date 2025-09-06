@@ -1,0 +1,29 @@
+[
+    {
+      title: "E-Commerce Mobile App",
+      description:"Cross-platform mobile application built with Compose Multiplatform, featuring secure payment integration, real-time inventory updates, and modern Material 3 design.",
+      technologies: [
+        "Kotlin Multiplatform",
+        "Jetpack Compose",
+        "Ktor",
+        "PostgreSQL",
+      ],
+      period: "2024",
+      type: "Mobile Application"
+    },
+    {
+      title: "Microservices API Platform",
+      description:
+        "Scalable backend infrastructure using Spring Boot microservices architecture with JWT authentication, Redis caching, and comprehensive monitoring.",
+      technologies: ["Spring Boot", "PostgreSQL", "Redis", "Docker", "AWS"],
+      period: "2023-2024",
+      type: "Backend System"
+    },
+    {
+      title: "Enterprise Dashboard",
+      description:"Real-time analytics dashboard with secure REST APIs, role-based access control, and automated reporting features for business intelligence.",
+      technologies: ["JAX-RS", "SQL Server", "Angular", "JWT"],
+      period: "2023",
+      type: "Full-Stack Application"
+    }
+  ]
