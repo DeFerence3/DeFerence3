@@ -1,28 +1,54 @@
 [
   {
-    "title": "E-Commerce Mobile App",
-    "description": "Cross-platform mobile application built with Compose Multiplatform, featuring secure payment integration, real-time inventory updates, and modern Material 3 design.",
+    "title": "KeyTab",
+    "description": "A customizable, cross-platform table booking system for restaurants, halls, and eateries.",
     "technologies": [
+      "Compose Multiplatform",
       "Kotlin Multiplatform",
-      "Jetpack Compose",
-      "Ktor",
-      "PostgreSQL"
+      "Gradle",
+      "Ktor-Client"
     ],
-    "period": "2024",
-    "type": "Mobile Application"
+    "period": "",
+    "type": "Android/Desktop Developer"
   },
   {
-    "title": "Microservices API Platform",
-    "description": "Scalable backend infrastructure using Spring Boot microservices architecture with JWT authentication, Redis caching, and comprehensive monitoring.",
-    "technologies": ["Spring Boot", "PostgreSQL", "Redis", "Docker", "AWS"],
-    "period": "2023-2024",
-    "type": "Backend System"
+    "title": "Rewards Pro",
+    "description": "A CMS with a loyalty rewards dashboard for businesses, allowing them to monitor reward points and user behavior.",
+    "technologies": [
+      "Jetpack Compose",
+      "xzing/Android ML Kit",
+      "Dagger-Hilt",
+      "Retrofit",
+      "MMKV",
+      "Coil"
+    ],
+    "period": "",
+    "type": "Android Developer"
   },
   {
-    "title": "Enterprise Dashboard",
-    "description": "Real-time analytics dashboard with secure REST APIs, role-based access control, and automated reporting features for business intelligence.",
-    "technologies": ["JAX-RS", "SQL Server", "Angular", "JWT"],
-    "period": "2023",
-    "type": "Full-Stack Application"
+    "title": "Stock Sense",
+    "description": "A stock management system for hotels, focused on inventory accuracy and operational efficiency.",
+    "technologies": [
+      "Spring Boot",
+      "MySQL",
+      "Jasper Reports"
+    ],
+    "period": "",
+    "type": "Java Developer, Android Developer"
+  },
+  {
+    "title": "Ayurware ERP",
+    "description": "An ERP system for manufacturing ayurvedic medicines, enhancing process efficiencies across purchasing, sales, production, and packing.",
+    "technologies": [
+      "Microsoft SQL Server",
+      "JavaFX",
+      "JSF",
+      "PrimeFaces",
+      "Jasper Reports",
+      "JAX-RS",
+      "GlassFish"
+    ],
+    "period": "",
+    "type": "Full Stack Developer"
   }
 ]
