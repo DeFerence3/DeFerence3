@@ -1,0 +1,188 @@
+{
+  "personalInfo": {
+    "name": "Abhishek Krishnan T R",
+    "title": "Java/Kotlin Developer | Database Engineer | Android Developer",
+    "phone": "+919497213977",
+    "email": "socialsabhishek@gmail.com",
+    "portfolioWebsite": "https://github.com/DeFerence3",
+    "linkedInUrl": "https://www.linkedin.com/in/abhishek-krishnan-b18220248/",
+    "summary": "Java/Kotlin Developer | Backend & Mobile | Skilled in Spring Boot, Ktor, JAX-RS, SQLServer, PostgreSQL. Experienced in building secure, scalable APIs and Android apps using Jetpack Compose, Views, and ComposeMultiplatform for cross-platform delivery"
+  },
+  "experience": [
+    {
+      "company": "Udyata Information Systems Pvt. Ltd, Thrissur",
+      "positions": [
+        {
+          "title": "Android Developer",
+          "duration": "2 years",
+          "achievements": [
+            "Developed Android applications using XML Views and Jetpack Compose.",
+            "Worked with Dagger-Hilt, Retrofit, Kotlin Coroutines, Ktor-Client, Koin, LiveData, Kotlin Flows, Room, and Gradle.",
+            "Implemented MVVM and Clean Architecture.",
+            "Applied code obfuscation using R8 and ProGuard.",
+            "Integration of 3rd party native libraries like, physical barcode/qrcode/rfidtag scanner",
+            "Optimize perfomance for a specific set of devices, while also supporting all"
+          ]
+        },
+        {
+          "title": "Java/Kotlin Developer",
+          "duration": "2 years",
+          "achievements": [
+            "Developed backend applications using Spring Boot, Ktor, JAX-RS, Hibernate, and Exposed.",
+            "Followed MVC design patterns.",
+            "Built secure, scalable backend systems and APIs.",
+            "Familized with microservices as using gateways, service discovery, config servers etc",
+            "Hands on experience with Spring Gateway, Netflix Eureka Server/Client, Jackson, Gson, Kotlinx.serilization, Kafka etc"
+          ]
+        },
+        {
+          "title": "Database Engineer",
+          "duration": "2 years",
+          "achievements": [
+            "Experineced in Microsoft SQL Server, MySQL, PostgreSQL",
+            "Designed and optimized complex relationships and stored procedures.",
+            "Able to perform quick/complex (one time) database changes/insertions which takes days to implement in ORM"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Java",
+      "Kotlin",
+      "C/C++",
+      "T-SQL"
+    ],
+    "frameworks": [
+      "Spring Boot",
+      "Ktor (Server/Client)",
+      "Hibernate",
+      "JAX-RS",
+      "Exposed",
+      "Jetpack Compose/Android Views",
+      "Dagger-Hilt",
+      "Koin",
+      "Retrofit",
+      "Kotlin Flows",
+      "LiveData",
+      "Kotlin Coroutines"
+    ],
+    "databases": [
+      "Microsoft SQL Server",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "architectures": [
+      "MVVM",
+      "MVC",
+      "Clean Architecture"
+    ],
+    "tools": [
+      "Git",
+      "Gradle",
+      "R8",
+      "Android Studio",
+      "Eclipse",
+      "Intellij Idea",
+      "Docker",
+      "Excel",
+      "Postman"
+    ],
+    "methodologies": [
+      "Agile"
+    ],
+    "other": [
+      "State Management in Jetpack Compose ",
+      "Optimizing database queries and stored procedure",
+      "Perfomance Optimizations in JVM",
+      "Perfomance Optimizations in Android/ART"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Diploma in Computer Engineering",
+      "institution": "Maharaja’s Technological Institute, Chembukkav",
+      "year": "March 2020 - 2023"
+    }
+  ],
+  "projects": [
+    {
+      "name": "KeyTab",
+      "link": "",
+      "role": "Android/Desktop Developer",
+      "description": "A customizable table booking system tailored for Indian restaurants, halls, and eateries.",
+      "technologies": [
+        "Compose Multiplatform",
+        "Kotlin Multiplatform",
+        "Gradle",
+        "Ktor-Client"
+      ],
+      "features": [
+        "Crossplatform Compatibility, Advanced/Custom layouts,"
+      ]
+    },
+    {
+      "name": "Rewards Pro",
+      "role": "Android Developer",
+      "description": "CMS with Loyalty rewards dashboard for businesses to monitor reward points and user behavior",
+      "technologies": [
+        "Jetpack Compose",
+        "xzing/Android ML Kit",
+        "Dagger-Hilt",
+        "Retrofit",
+        "MMKV",
+        "Coil"
+      ],
+      "features": [
+        "Barcode scanning",
+        "Graceful crash handling",
+        "Custom theme",
+        "Developer flags"
+      ]
+    },
+    {
+      "name": "Stock Sense",
+      "role": "Java Developer, Android Developer",
+      "description": "A stock management system for hotels, focused on inventory accuracy and\noperational efficiency.",
+      "technologies": [
+        " Spring Boot",
+        "MySQL",
+        "Jasper Reports"
+      ],
+      "features": [
+        "RealTime dashborad, Scheduled job"
+      ]
+    },
+    {
+      "name": "Ayurware ERP",
+      "role": "Full Stack Developer",
+      "description": "An ERP system for manufacturing ayurvedic medicines, enhancing process efficiencies across purchasing, sales, production, and packing.",
+      "technologies": [
+        "Microsoft SQL Server",
+        "JavaFX",
+        "JSF",
+        "PrimeFaces",
+        "Jasper Reports",
+        "JAX-RS",
+        "GlassFish"
+      ],
+      "features": [
+        "Real-time data flow"
+      ]
+    }
+  ],
+  "achievements": [
+    "Delivered production-ready features ahead of deadlines, receiving positive feedback from team leads",
+    "Led successful client project deliveries under tight festival/election timelines with zero downtime",
+    "Applied advanced coding techniques, including annotation-driven development, to create robust and extensible software solutions.",
+    "Executed a comprehensive migration strategy for an Android application, transitioning from imperative Android Views to a declarative Jetpack Compose architecture using Kotlin."
+  ],
+  "interests": [
+    "Exploring performance tips & DevTools",
+    "Clash Of Clans",
+    "Open-Source tech enthusiast",
+    "Following Indian tech/startup ecosystem",
+    "Be up-to date with modern day and innovative technologies"
+  ]
+}
