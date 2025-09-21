@@ -2,9 +2,9 @@
   "personalInfo": {
     "name": "Abhishek Krishnan T R",
     "title": "Java/Kotlin Developer | Database Engineer | Android Developer",
-    "phone": "+919497213977",
     "email": "socialsabhishek@gmail.com",
     "portfolioWebsite": "https://github.com/DeFerence3",
+    "githubLink": "https://github.com/DeFerence3",
     "linkedInUrl": "https://www.linkedin.com/in/abhishek-krishnan-b18220248/",
     "summary": "Java/Kotlin Developer | Backend & Mobile | Skilled in Spring Boot, Ktor, JAX-RS, SQLServer, PostgreSQL. Experienced in building secure, scalable APIs and Android apps using Jetpack Compose, Views, and ComposeMultiplatform for cross-platform delivery"
   },
