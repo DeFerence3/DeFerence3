@@ -4,10 +4,13 @@
     "title": "Java/Kotlin Developer | Database Engineer | Android Developer",
     "email": "socialsabhishek@gmail.com",
     "portfolioWebsite": "https://github.com/DeFerence3",
-    "githubLink": "https://github.com/DeFerence3",
     "linkedInUrl": "https://www.linkedin.com/in/abhishek-krishnan-b18220248/",
     "summary": "Java/Kotlin Developer | Backend & Mobile | Skilled in Spring Boot, Ktor, JAX-RS, SQLServer, PostgreSQL. Experienced in building secure, scalable APIs and Android apps using Jetpack Compose, Views, and ComposeMultiplatform for cross-platform delivery"
   },
+  "links": {
+    "github": "https://github.com/DeFerence3",
+    "linkedin": "https://www.linkedin.com/in/abhishek-krishnan-b18220248/"
+  }
   "experience": [
     {
       "company": "Udyata Information Systems Pvt. Ltd, Thrissur",
