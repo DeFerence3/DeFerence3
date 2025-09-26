@@ -4,6 +4,7 @@
     "title": "Java/Kotlin Developer | Database Engineer | Android Developer",
     "phone": "+919497213977",
     "email": "socialsabhishek@gmail.com",
+    "location": "Thrissur, Kerala",
     "portfolioWebsite": "https://github.com/DeFerence3",
     "linkedInUrl": "https://www.linkedin.com/in/abhishek-krishnan-b18220248/",
     "summary": "Java/Kotlin Developer | Backend & Mobile | Skilled in Spring Boot, Ktor, JAX-RS, SQLServer, PostgreSQL. Experienced in building secure, scalable APIs and Android apps using Jetpack Compose, Views, and ComposeMultiplatform for cross-platform delivery"
@@ -42,6 +43,16 @@
             "Experineced in Microsoft SQL Server, MySQL, PostgreSQL",
             "Designed and optimized complex relationships and stored procedures.",
             "Able to perform quick/complex (one time) database changes/insertions which takes days to implement in ORM"
+          ]
+        },
+        {
+          "title": "DevOps Engineer",
+          "duration": "2 yrs",
+          "achievements": [
+            "Implemented CI/CD pipelines using Github Actions and Gitlab Runner, reducing deployment time by 90%",
+            "Automated application deployment on VPS and hostinger using containerization, improving reliability and scalability",
+            "Streamlined release management, cutting down manual deployment errors by 90%",
+            "Deployed and monitored applications with Coolify, ensuring smooth operations and faster rollback in case of failure"
           ]
         }
       ]
@@ -87,7 +98,8 @@
       "Intellij Idea",
       "Docker",
       "Excel",
-      "Postman"
+      "Postman",
+      "Coolify"
     ],
     "methodologies": [
       "Agile"
@@ -96,7 +108,8 @@
       "State Management in Jetpack Compose ",
       "Optimizing database queries and stored procedure",
       "Perfomance Optimizations in JVM",
-      "Perfomance Optimizations in Android/ART"
+      "Perfomance Optimizations in Android/ART",
+      "Basic DevOps"
     ]
   },
   "education": [
@@ -183,6 +196,7 @@
     "Clash Of Clans",
     "Open-Source tech enthusiast",
     "Following Indian tech/startup ecosystem",
-    "Be up-to date with modern day and innovative technologies"
+    "Be up-to date with modern day and innovative technologies",
+    "DevOps and Automation"
   ]
 }
