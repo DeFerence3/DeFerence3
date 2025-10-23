@@ -125,19 +125,6 @@
       ]
     },
     {
-      "title": "DevOps(Basic)",
-      "description": "Hands-on with CI/CD pipelines, deployment automation, and containerization on VPS and cloud platforms.",
-      "icon": "devops",
-      "technologies": [
-        "Github-workflow",
-        "Gitlab-runner",
-        "Coolify",
-        "Vps",
-        "Hostinger",
-        "Containerization"
-      ]
-    },
-    {
       "title": "Software Architectures",
       "description": "Applying MVVM, MVC, and Clean Architecture for maintainable and scalable solutions.",
       "icon": "architecture",
